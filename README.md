@@ -26,13 +26,6 @@ I'm an AI Engineer from Portugal who enjoys building intelligent systems and tur
 
 ## 🚀 What I'm Up To
 
-<img
-  width="42%"
-  align="right"
-  alt="AI illustration"
-  src="./assets/profile.gif"
-/>
-
 ### 💼 Work
 
 - 🔬 **Researcher @ INESC TEC** — GenAI for medical imaging and healthcare CAD systems
@@ -40,6 +33,13 @@ I'm an AI Engineer from Portugal who enjoys building intelligent systems and tur
 - 🛒 **AI Engineer @ MC Sonae** — Agentic systems and AI-powered recommendation engines in retail
 - 🧮 **Researcher @ IEETA** — Study mathematical foundation of NNs in DL architectures
 - 🧬 **Researcher @ CFisUC** — Computational biology modelling and cancer simulation.
+
+<img
+  width="30%"
+  align="right"
+  alt="AI illustration"
+  src="./assets/profile.gif"
+/>
 
 ### 🔬 Research Interests
 
@@ -53,6 +53,13 @@ I'm an AI Engineer from Portugal who enjoys building intelligent systems and tur
 - 🎯 Deep Reinforcement Learning for Algorithmic Trading
 - 👀 Auido-Vision-Language Models and Multimodal AI
 - 🛠️ CAD Design and 3D Modeling
+
+<img
+  width="30%"
+  align="right"
+  alt="AI illustration"
+  src="./assets/profile2.gif"
+/>
 
 ### 🎮 Beyond the Keyboard
 
