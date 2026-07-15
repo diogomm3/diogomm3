@@ -1,0 +1,125 @@
+<!--
+  SETUP — read before publishing:
+  1. Replace every instance of diogomm3 below with your real GitHub handle.
+  2. Create a new PUBLIC repo named exactly your username (e.g. if you're "diogommartins",
+     the repo is called "diogommartins"). GitHub auto-detects this and shows README.md
+     on your profile page.
+  3. Put this file in that repo as README.md.
+  4. (Optional but recommended) The snake animation near the bottom needs a tiny GitHub
+     Action to generate it — see snake.yml, provided alongside this file.
+-->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Diogo+Monteiro+Martins;AI+%2F+ML+Research+Engineer;Generative+Medical+Imaging;Multi-Agent+LLM+Systems;%22Hard+work+pays+off.%22" alt="Typing SVG" />
+
+<img src="https://img.shields.io/badge/Porto%20%2F%20Aveiro-Portugal-39D353?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PT%20native%20·%20EN%20C1-Languages-39D353?style=flat-square&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=diogomm3&style=flat-square&color=39D353&label=Profile+Views" />
+
+</div>
+
+<br>
+
+- 🔬 Researching **synthetic CT & lung-mask generation** (GANs, diffusion) at INESC-TEC, part of the PHASE-IV AI EU project
+- 🤖 Building **multi-agent LLM systems & MLOps pipelines** at Gresnovo
+- 📄 3 papers in medical imaging & neural nets — 2 accepted, 1 under review
+- 🌱 Big on the idea that consistent effort beats raw talent — independent study is a daily habit, not a phase
+- ⚡ Fun fact: I once built a CNN from scratch in raw NumPy just to see if Bessel functions make better activations than ReLU (they're... interesting)
+
+<br>
+
+### Tech Stack
+
+**LLMs & Agents**
+<br>
+<img src="https://img.shields.io/badge/LangChain-39D353?style=for-the-badge&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/HuggingFace-39D353?style=for-the-badge&logo=huggingface&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/OpenAI-39D353?style=for-the-badge&logo=openai&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/RAG-39D353?style=for-the-badge&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-39D353?style=for-the-badge&logoColor=0D1117" />
+
+**ML / Deep Learning**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-39D353?style=for-the-badge&logo=pytorch&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/TensorFlow-39D353?style=for-the-badge&logo=tensorflow&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Keras-39D353?style=for-the-badge&logo=keras&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/scikit--learn-39D353?style=for-the-badge&logo=scikitlearn&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/OpenCV-39D353?style=for-the-badge&logo=opencv&logoColor=0D1117" />
+
+**Data & MLOps**
+<br>
+<img src="https://img.shields.io/badge/Pandas-39D353?style=for-the-badge&logo=pandas&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/NumPy-39D353?style=for-the-badge&logo=numpy&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Apache%20Spark-39D353?style=for-the-badge&logo=apachespark&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/MLflow-39D353?style=for-the-badge&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/DVC-39D353?style=for-the-badge&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/PostgreSQL-39D353?style=for-the-badge&logo=postgresql&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/MongoDB-39D353?style=for-the-badge&logo=mongodb&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Redis-39D353?style=for-the-badge&logo=redis&logoColor=0D1117" />
+
+**Cloud & DevOps**
+<br>
+<img src="https://img.shields.io/badge/Docker-39D353?style=for-the-badge&logo=docker&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Azure-39D353?style=for-the-badge&logo=microsoftazure&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Git-39D353?style=for-the-badge&logo=git&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/Grafana-39D353?style=for-the-badge&logo=grafana&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/FastAPI-39D353?style=for-the-badge&logo=fastapi&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/SLURM%20%2F%20HPC-39D353?style=for-the-badge&logoColor=0D1117" />
+
+**Languages=0D1117" />
+
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Python-39D353?style=for-the-badge&logo=python&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/C++-39D353?style=for-the-badge&logo=cplusplus&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/C%23%20%2F%20.NET-39D353?style=for-the-badge&logo=dotnet&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/TypeScript-39D353?style=for-the-badge&logo=typescript&logoColor=0D1117" />
+<img src="https://img.shields.io/badge/React-39D353?style=for-the-badge&logo=react&logoColor=0D1117" />
+
+<br>
+
+<br>
+
+### GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=diogomm3&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=diogomm3&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353" height="165" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomm3&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=c9d1d9" height="165" />
+</div>
+
+<br>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogomm3/diogomm3/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/diogomm3/diogomm3/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+<br>
+
+<!-- SNAKE_PROGRESS_START -->
+<b>Year Progress:</b> <code style="color: #39D353">████████░░░░</code> <span style="color: #39D353">0%</span>
+<!-- SNAKE_PROGRESS_END -->
+</div>
+
+<br>
+
+<br>
+
+### Let's Connect
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Email-your--email%40example.com-39D353?style=flat-square&logo=gmail&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LinkedIn-your--handle-39D353?style=flat-square&logo=linkedin&logoColor=0D1117&labelColor=0D1117" />
+
+</div>
+
+<br>
+
+<div align="center"><sub>"Hard work pays off."</sub></div>
