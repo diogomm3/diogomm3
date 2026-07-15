@@ -1,6 +1,5 @@
-
 name: Generate Snake Animation
- 
+
 on:
   schedule:
     - cron: "0 2 * * *"   # once a day
@@ -8,13 +7,16 @@ on:
   push:
     branches:
       - main
- 
+
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
@@ -23,7 +25,31 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
- 
+
+      - name: Update Year Progress
+        run: |
+          # Calculate progress
+          day_of_year=$(date +%j)
+          percent=$(( 100 * day_of_year / 365 ))
+          filled=$(( 10 * percent / 100 ))
+          empty=$(( 10 - filled ))
+
+          # Create bar: blocks for filled, light blocks for empty
+          bar=$(printf '█%.0s' $(seq 1 $filled))
+          bar+=$(printf '░%.0s' $(seq 1 $empty))
+
+          progress_text="<b>Year Progress:</b> <code style=\"color: #39D353\">$bar</code> <span style=\"color: #39D353\">$percent%</span>"
+
+          # Update README.md using a temporary file to avoid sed issues with multi-line
+          sed -i "s|<!-- SNAKE_PROGRESS_START -->.*<!-- SNAKE_PROGRESS_END -->|<!-- SNAKE_PROGRESS_START -->\n$progress_text\n<!-- SNAKE_PROGRESS_END -->|" README.md
+
+          # Commit and push the update to README.md
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update year progress bar [skip ci]" || echo "No changes to commit"
+          git push origin main
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
