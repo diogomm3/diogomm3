@@ -35,8 +35,8 @@ jobs:
           empty=$(( 10 - filled ))
 
           # Create bar: blocks for filled, light blocks for empty
-          bar=$(printf '█%.0s' $(seq 1 $filled))
-          bar+=$(printf '░%.0s' $(seq 1 $empty))
+          bar=$(printf '■%.0s' $(seq 1 $filled))
+          bar+=$(printf '□%.0s' $(seq 1 $empty))
 
           progress_text="<b>Year Progress:</b> <code style=\"color: #39D353\">$bar</code> <span style=\"color: #39D353\">$percent%</span>"
 
