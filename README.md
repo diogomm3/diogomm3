@@ -144,7 +144,9 @@ I'm an AI Engineer from Portugal who enjoys building intelligent systems and tur
 </p>
 
 <p align="center">
-<!-- SNAKE_PROGRESS_START --><b>Year Progress:</b> <code style="color: #39D353">Calculating...</code><!-- SNAKE_PROGRESS_END -->
+<!-- SNAKE_PROGRESS_START -->
+<b>Year Progress:</b> <code style="color: #39D353">█████░░░░░</code> <span style="color: #39D353">53%</span>
+<!-- SNAKE_PROGRESS_END -->
 </p>
 
 <br/>
