@@ -30,7 +30,7 @@ I'm an AI Engineer from Portugal who enjoys building intelligent systems and tur
   width="42%"
   align="right"
   alt="AI illustration"
-  src="./assets/profile.svg"
+  src="./assets/profile.gif"
 />
 
 ### 💼 Work
