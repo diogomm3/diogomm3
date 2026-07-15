@@ -1,148 +1,164 @@
-<div align="center">
-  <!-- Name with subtle pulse animation -->
-  <h1>
-    <span style="display: inline-block; animation: gentlePulse 3s ease-in-out infinite alternate;">
-      Diogo Monteiro Martins
-    </span>
-  </h1>
-  <!-- Looping interests/roles -->
-  <p>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=AI/ML+Research+Engineer;Multi-Agent+Systems;Generative+Medical+Imaging;Hard+work+pays+off" alt="Typing SVG" />
-  </p>
-</div>
+<h1 align="center">Diogo Martins</h1>
 
-<style>
-  @keyframes gentlePulse {
-    0% { filter: brightness(1) drop-shadow(0 0 0px rgba(255,255,255,0)); }
-    100% { filter: brightness(1.05) drop-shadow(0 0 8px rgba(16, 185, 129, 0.3)); }
-  }
-</style>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=1800&pause=500&color=10B981&center=true&vCenter=true&width=1000&lines=AI+Research+Engineer;Agentic+Systems;Generative+Medical+Imaging;Computer+Vision;Multimodal+AI;Trading+Automation;CAD+Design" alt="Typing SVG" />
+</p>
 
-<br>
+<br/>
 
----
+<h3>
+  Hi there, I'm Diogo!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">
+</h3>
 
-<br>
+<p align="left">
+  <a href="https://github.com/diogomm3" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github"/></a>
+  <a href="https://www.linkedin.com/in/diogo-martins-861494251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"/></a>
+  <a href="mailto:diogomm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
-## 🧠 About Me
+<br/>
 
-I'm passionate about advancing AI through rigorous research and practical engineering, focusing on medical imaging, autonomous systems, and scalable MLOps.
+## 👨‍💻 About Me
 
----
+I'm an AI Engineer from Portugal who enjoys building intelligent systems and turning research ideas into real-world applications. My interests revolve around Agentic AI, Large Language Models, Generative AI, Computer Vision, and AI Engineering. I love exploring new ideas, learning how things work under the hood, and building projects just for the fun (and challenge) of it.
 
-<br>
 
-## 🛠️ Technology Stack
+## 🚀 What I'm Up To
+
+<img
+  width="42%"
+  align="right"
+  alt="AI illustration"
+  src="./assets/profile.svg"
+/>
+
+### 💼 Work
+
+- 🔬 **Researcher @ INESC TEC** — GenAI for medical imaging and healthcare CAD systems
+- 🏭 **AI/Software Engineer @ Gresnovo** — IT and MLOps systems for industrial automation
+- 🛒 **AI Engineer @ MC Sonae** — Agentic systems and AI-powered recommendation engines in retail
+- 🧮 **Researcher @ IEETA** — Study mathematical foundation of NNs in DL architectures
+- 🧬 **Researcher @ CFisUC** — Computational biology modelling and cancer simulation.
+
+### 🔬 Research Interests
+
+- 🤖 Agentic AI & World Models
+- 🦾 Embodied AI & Intelligent Robotics
+- 🩺 Healthcare AI & Medical Image Analysis
+- 📈 Financial AI & Intelligent Trading Systems
+
+### 🌱 Currently Exploring
+
+- 🎯 Deep Reinforcement Learning for Algorithmic Trading
+- 👀 Auido-Vision-Language Models and Multimodal AI
+- 🛠️ CAD Design and 3D Modeling
+
+### 🎮 Beyond the Keyboard
+
+- 🥊 Kickboxing
+- 🏍️ Motorcycles
+- 🧩 Puzzles
+- 🎵 Music & Drums
+  
+<br/>
+
+## 🛠️ Languages & Tools
 
 ### 🤖 Agentic AI
-![LangChain](https://img.shields.io/badge/-LangChain-2563EB?style=for-the-badge&logo=langchain&logoColor=white) ![AutoGen](https://img.shields.io/badge/-AutoGen-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white) ![CrewAI](https://img.shields.io/badge/-CrewAI-10B981?style=for-the-badge&logo=ai&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-F59E0B?style=for-the-badge&logo=langchain&logoColor=white) ![Semantic Kernel](https://img.shields.io/badge/-Semantic%20Kernel-8B5B8C?style=for-the-badge&logo=microsoft&logoColor=white)
+
+<p align="center">
+  <a href="https://www.langchain.com"><img src="https://cdn.simpleicons.org/langchain" height="42px" alt="LangChain" hspace="4"/></a>
+  <a href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph" height="42px" alt="LangGraph" hspace="4"/></a>
+  <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/llamaindex.png" alt="LlamaIndex" height="42px" hspace="4"/></a>
+  <a href="https://ollama.com"><img src="https://cdn.simpleicons.org/ollama" height="42px" alt="Ollama" hspace="4"/></a>
+  <a href="https://www.anthropic.com/claude-code"><img src="https://cdn.simpleicons.org/claudecode" height="42px" alt="Claude Code" hspace="4"/></a>
+  <a href="https://docs.nvidia.com/nemoclaw"><img src="https://cdn.simpleicons.org/nvidia" height="42px" alt="NVIDIA NeMo" hspace="4"/></a>
+  <a href="https://n8n.io"><img src="https://cdn.simpleicons.org/n8n" height="42px" alt="n8n" hspace="4"/></a>
+</p>
 
 ### 🧠 Deep Learning
-![PyTorch](https://img.shields.io/badge/-PyTorch-2563EB?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white) ![JAX](https://img.shields.io/badge/-JAX-10B981?style=for-the-badge&logo=google&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-F59E0B?style=for-the-badge&logo=keras&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-%F0%9F%A4%96%20Hugging%20Face-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white)
 
-### 💾 Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-10B981?style=for-the-badge&logo=redis&logoColor=white) ![Neo4j](https://img.shields.io/badge/-Neo4j-F59E0B?style=for-the-badge&logo=neo4j&logoColor=white) ![ClickHouse](https://img.shields.io/badge/-ClickHouse-8B5CF6?style=for-the-badge&logo=clickhouse&logoColor=white)
+<p align="center">
+  <a href="https://pytorch.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://tensorflow.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://opencv.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://huggingface.co"><img src="https://cdn.simpleicons.org/huggingface" height="42px" hspace="4"/></a>
+  <a href="https://github.com/unslothai/unsloth"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/unsloth%20logo%20black%20text.png" alt="Unsloth" height="42px" hspace="4"/></a>
+  <a href="https://onnx.ai"><img src="https://cdn.simpleicons.org/onnx" height="42px" hspace="4"/></a>
+  <a href="https://scikit-learn.org"><img src="https://cdn.simpleicons.org/scikitlearn" height="42px" hspace="4"/></a>
+  <a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://cupy.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="CuPy" height="42px" hspace="4"/></a>
+</p>
 
-### ⚙️ MLOps
-![MLflow](https://img.shields.io/badge/-MLflow-2563EB?style=for-the-badge&logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/-DVC-7C3AED?style=for-the-badge&logo=dvc&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/-Weights%20%26%20Biases-10B981?style=for-the-badge&logo=weightsbiases&logoColor=white) ![Kubeflow](https://img.shields.io/badge/-Kubeflow-F59E0B?style=for-the-badge&logo=kubeflow&logoColor=white) ![Evidently](https://img.shields.io/badge/-Evidently-8B5CF6?style=for-the-badge&logo=evidentlyai&logoColor=white)
+### ⚙️ MLOps & Infrastructure
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-7C3AED?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-10B981?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-F59E0B?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-8B5CF6?style=for-the-badge&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B3BFF?style=for-the-badge&logo=hashicorp&logoColor=white)
+<p align="center">
+  <a href="https://docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://kubernetes.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42px" hspace="4"/></a>
+  <a href="https://mlflow.org"><img src="https://cdn.simpleicons.org/mlflow" height="42px" hspace="4"/></a>
+  <a href="https://dvc.org"><img src="https://cdn.simpleicons.org/dvc" height="42px" hspace="4"/></a>
+  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://azure.microsoft.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://www.virtualbox.org"><img src="https://cdn.simpleicons.org/virtualbox" height="42px" hspace="4"/></a>
+</p>
 
-### 💻 Backend
-![Python](https://img.shields.io/badge/-Python-2563EB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-7C3AED?style=for-the-badge&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/-Go-10B981?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/-Java-F59E0B?style=for-the-badge&logo=java&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-8B5CF6?style=for-the-badge&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/-Express-6366F1?style=for-the-badge&logo=express&logoColor=white)
+### 💻 Programming & Frameworks
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-2563EB?style=for-the-badge&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-7C3AED?style=for-the-badge&logo=vue.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-10B981?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-F59E0B?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-8B5CF6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p align="center">
+  <a href="https://python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="42px" hspace="4"/></a>
+  <a href="https://isocpp.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://djangoproject.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42px" hspace="4"/></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://cdn.simpleicons.org/fastapi" height="42px" hspace="4"/></a>
+  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="42px" hspace="4"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://cdn.simpleicons.org/html5" height="42px" hspace="4"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css" height="42px" hspace="4"/></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://r-project.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="42px" hspace="4"/></a>
+</p>
 
-### 🔭 Exploring
-![Neuromorphic](https://img.shields.io/badge/-Neuromorphic-8B5CF6?style=for-the-badge&logo=neuro&logoColor=white) ![DNA](https://img.shields.io/badge/-DNA%20Storage-10B981?style=for-the-badge&logo=dna&logoColor=white) ![Federated](https://img.shields.io/badge/-Federated%20Learning-2563EB?style=for-the-badge&logo=shield&logoColor=white) ![Neuroscience](https://img.shields.io/badge/-Neuroscience-Inspired-7C3AED?style=for-the-badge&logo=brain&logoColor=white) ![Causal](https://img.shields.io/badge/-Causal%20Inference-F59E0B?style=for-the-badge&logo=chart&logoColor=white) ![Generative%20Art](https://img.shields.io/badge/-Generative%20Art-FF6B35?style=for-the-badge&logo=palette&logoColor=white)
+### 🗄️ Databases & Vector Stores
 
-<br>
+<p align="center">
+  <a href="https://www.microsoft.com/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="42px" hspace="4"/></a>
+  <a href="https://postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://redis.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42px" hspace="4"/></a>
+  <a href="https://qdrant.tech"><img src="https://cdn.simpleicons.org/qdrant" height="42px" hspace="4"/></a>
+  <a href="https://elastic.co"><img src="https://cdn.simpleicons.org/elasticsearch" height="42px" hspace="4"/></a>
+  <a href="https://neo4j.com"><img src="https://cdn.simpleicons.org/neo4j" height="42px" hspace="4"/></a>
+</p>
 
----
+## 📊 GitHub Stats
 
-<br>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <table>
-    <tr>
-      <th align="left">Metric</th>
-      <th align="center">Value</th>
-    </tr>
-    <tr>
-      <td>Stars</td>
-      <td><img src="https://img.shields.io/github/stars/diogomm3/diogomm3?style=for-the-badge" alt="Stars"></td>
-    </tr>
-    <tr>
-      <td>Forks</td>
-      <td><img src="https://img.shields.io/github/forks/diogomm3/diogomm3?style=for-the-badge" alt="Forks"></td>
-    </tr>
-    <tr>
-      <td>Contributors</td>
-      <td><img src="https://img.shields.io/github/contributors/diogomm3/diogomm3?style=for-the-badge" alt="Contributors"></td>
-    </tr>
-    <tr>
-      <td>Issues</td>
-      <td><img src="https://img.shields.io/github/issues/diogomm3/diogomm3?style=for-the-badge" alt="Issues"></td>
-    </tr>
-    <tr>
-      <td>Pull Requests</td>
-      <td><img src="https://img.shields.io/github/issues-pr/diogomm3/diogomm3?style=for-the-badge" alt="Pull Requests"></td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogomm3&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E5E7EB&hide=html,css" height="140" alt="Language Distribution" />
-</div>
-
-<br>
-
----
-
-<br>
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogomm3/diogomm3/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/diogomm3/diogomm3/output/github-contribution-grid-snake.svg" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diogomm3/diogomm3/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diogomm3/diogomm3/output/github-contribution-grid-snake.svg" />
   </picture>
-  
-  <!-- SNAKE_PROGRESS_START -->
-  <b>Year Progress:</b> <code style="color: #10B981">████████░░</code> <span style="color: #10B981">0%</span>
-  <!-- SNAKE_PROGRESS_END -->
-</div>
+</p>
 
-<br>
+<p align="center">
+<!-- SNAKE_PROGRESS_START --><b>Year Progress:</b> <code style="color: #39D353">Calculating...</code><!-- SNAKE_PROGRESS_END -->
+</p>
 
----
-
-<br>
-
-## 🤝 Let's Connect
-
-<div align="center" style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
-  <a href="mailto:diogomm3@researcher.dev">
-    <img src="https://img.shields.io/badge/Email-diogomm3@researcher.dev-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/diogomm3">
-    <img src="https://img.shields.io/badge/LinkedIn-diogomm3-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/diogomm3">
-    <img src="https://img.shields.io/badge/GitHub-diogomm3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br>
+<br/>
 
 <div align="center">
-  <em>"Hard work pays off."</em>
+  <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+    <div>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=diogomm3&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" height="160" alt="GitHub Streak" />
+    </div>
+  </div>
 </div>
+
+<br/>
+
+<p align="center">
+  <i>"Hard work pays off."</i>
+</p>
