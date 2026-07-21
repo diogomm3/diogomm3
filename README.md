@@ -128,7 +128,7 @@ I'm an AI Engineer from Portugal who enjoys building intelligent systems and tur
   <a href="https://www.mathworks.com/products/matlab.html"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="42px" hspace="4"/></a>
 </p>
 
-### 🗄️ Databases & Vector Stores
+### 🗄️ Databases
 
 <p align="center">
   <a href="https://www.microsoft.com/sql-server"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="42px" hspace="4"/></a>
